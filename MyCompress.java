@@ -5,7 +5,7 @@
  * This program reads a file and adds each character to a huffman
  * tree. They are all placed as leafs in trees. They are then assigned 
  * a code to each with the most used character having the smallest binary code
- * usually of 00 or 01. The files are read from the command line, the first arguement
+ * usually of 00 or 01. The files are read from the command line, the first argument
  * is the file we are reading from the second is the target file. Using a hash map the
  * bits are stored in the file aswell as the hashmap object.
  */
